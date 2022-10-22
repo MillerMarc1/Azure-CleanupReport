@@ -22,7 +22,7 @@ Azure Automation Account Setup:
 
 ## Function Overview
 
-Within the Az.Cleanup-Custom PowerShell module exists a public folder. This folder holds various .ps1 scripts that include functionality for each resource. In order to add a resource or remove a resource from a report, the appropriate function contained in the public folder is called.
+Within the Az.Cleanup-Custom PowerShell module exists a public folder. This folder holds various .ps1 scripts that include functionality for each resource. In order to add a resource or remove a resource from the report, adjust the appropriate function call.
 
 - ### disk.ps1
 
